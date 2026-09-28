@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Brayan Scott 👋
 
-<!--
-**DaddyZeroo/DaddyZeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineer focused on industrial automation, IIoT and data-driven manufacturing.
 
-Here are some ideas to get you started:
+I build solutions that connect industrial equipment, operational data and decision-making tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Industrial automation and PLC systems
+- IIoT and MQTT-based architectures
+- Production monitoring and OEE dashboards
+- Power BI and operational analytics
+- Node-RED, SQL, Docker and PostgreSQL
+- Predictive maintenance concepts
+
+## Featured project
+
+### Industrial IIoT Operations Platform
+
+An event-driven platform for collecting industrial telemetry, monitoring production, classifying downtime and exposing operational data to dashboards and Power BI.
+
+[View project](https://github.com/DaddyZeroo/industrial-iiot-platform)
+
+## Technologies
+
+`PLC` `MQTT` `Node-RED` `React` `Fastify` `TypeScript`
+`PostgreSQL` `Prisma` `Docker` `Power BI` `SQL`
+
+## Contact
+
+- LinkedIn: [Scott Rodriguez](https://www.linkedin.com/in/scott-rodriguez-752985323/)
+- GitHub: [@DaddyZeroo](https://github.com/DaddyZeroo)
